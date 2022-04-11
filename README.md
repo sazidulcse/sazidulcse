@@ -1,8 +1,8 @@
 
 
-### Hi there 👋, I'm Sazidul Rahman Emon
-![I am Android Software Developer & Java Programmer.](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/271021820_1080334946136463_3959338100272259919_n.jpg?stp=c93.0.206.206a_dst-jpg_p206x206&_nc_cat=107&ccb=1-5&_nc_sid=da31f3&_nc_eui2=AeHcyz9fflqNma1e0eJ_M-mdAMhLqWupdBkAyEupa6l0GYeJRhdVcXKXnoGL67tIHoYl43KRSf5vV2nTdledNYrb&_nc_ohc=xK6D61_-jZEAX88vw89&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8eSth5K_A-cZtZ5eUiBaIuk_ThgkVMcQmqJymBGp-hQw&oe=621E353E)
-## I am Android Software Developer & Java Programmer.
+## Hi there 👋, I'm Sazidul Rahman Emon
+
+# I am Android Software Developer & Java Programmer.
 
 
 I am Sazidul Rahman Emon. i'm Android Software Developer & Full Stack
