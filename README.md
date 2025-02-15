@@ -2,16 +2,16 @@
 
 ## Hi there 👋, I'm Sazidul Rahman Emon
 
-# I am Android Software Developer & Java Programmer.
+# I am Laravel Developer & PHP Programmer.
 
 
-I am Sazidul Rahman Emon. i'm Android Software Developer & Full Stack
-Java Programmer
+I am Sazidul Rahman Emon. i'm  & Full Stack
+Developer
 
-Skills: JAVA / KOTLIN / C# / SQL / HTML & CSS
+Skills: Html / CSS / JAVA SCRIPT / PHP-LARAVEL / VUE JS
 
-- 🔭 I’m currently working on Google play store at Android software developer. 
-- 🌱 I’m currently learning Kotlin Programming  
+- 🔭 I’m currently working on Coderoid Ltd at PHP Laravel developer. 
+- 🌱 I’m currently learning REACT JS  
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about Android DevlopmeDevelopment & JAVA projeproject  
 
